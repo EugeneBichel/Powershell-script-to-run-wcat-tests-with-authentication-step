@@ -1,0 +1,1 @@
+Power shell script allows run wcat performance requests against a system after authentication
